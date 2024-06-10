@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\areas\\admin\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\viewcomponents\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewcomponents\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\viewcomponents\\productsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewcomponents\\productsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\interfaces\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\interfaces\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\implementations\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\implementations\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\migrations\\20210610123456_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\migrations\\20210610123456_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\helpers\\datehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\helpers\\datehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\helpers\\urlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\helpers\\urlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\viewmodels\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\viewmodels\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject final\\miniproject\\miniproject\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A7E62-505A-4D92-A317-EB2188FDF508}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:47:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:47:19.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:47:12.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:46:46.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:46:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Areas\\Admin\\Models\\UserModel.cs",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:46:01.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartSummaryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\ViewComponents\\CartSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewComponents\\CartSummaryViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\ViewComponents\\CartSummaryViewComponent.cs",
+              "RelativeToolTip": "MiniProject\\ViewComponents\\CartSummaryViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:43:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductSummaryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\ViewComponents\\ProductSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewComponents\\ProductSummaryViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\ViewComponents\\ProductSummaryViewComponent.cs",
+              "RelativeToolTip": "MiniProject\\ViewComponents\\ProductSummaryViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:43:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\IContactService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Interfaces\\IContactService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\IContactService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Interfaces\\IContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:42:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:42:05.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Interfaces\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:41:53.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:41:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\ContactService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Implementations\\ContactService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\ContactService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Implementations\\ContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:41:23.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Implementations\\OrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Implementations\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:41:11.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\CartService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Implementations\\CartService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\CartService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Implementations\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:40:59.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\Contact.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:39:44.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:39:33.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\CartItem.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:39:20.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:39:06.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20210610123456_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Migrations\\20210610123456_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Migrations\\20210610123456_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Migrations\\20210610123456_InitialCreate.cs",
+              "RelativeToolTip": "MiniProject\\Migrations\\20210610123456_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:38:18.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MiniProject\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:38:03.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Helpers\\DateHelper.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Helpers\\DateHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Helpers\\DateHelper.cs",
+              "RelativeToolTip": "MiniProject\\Helpers\\DateHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:37:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UrlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Helpers\\UrlHelper.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Helpers\\UrlHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Helpers\\UrlHelper.cs",
+              "RelativeToolTip": "MiniProject\\Helpers\\UrlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:36:53.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Data\\SeedData.cs",
+              "RelativeToolTip": "MiniProject\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:19:44.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:13:03.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "MiniProject\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:12:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MiniProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:11:39.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:31:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:31:10.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:30:35.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:30:06.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:29:52.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Home\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:28:43.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\ViewModels\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\ContactViewModel.cs",
+              "RelativeToolTip": "MiniProject\\Models\\ViewModels\\ContactViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:27:19.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "MiniProject\\Models\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:27:07.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeToolTip": "MiniProject\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:26:51.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "MiniProject\\Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:26:38.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:22:10.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:21:58.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:21:43.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MiniProject Final\\MiniProject\\MiniProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:21:26.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
