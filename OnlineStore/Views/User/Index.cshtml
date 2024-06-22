@@ -1,0 +1,75 @@
+﻿@model List<OnlineStore.Areas.Identity.Data.OnlineStoreUser>
+
+<!-- [ page-header ] start -->
+<div class="page-header">
+    <div class="page-header-left d-flex align-items-center">
+        <div class="page-header-title">
+            <h5 class="m-b-10">Users</h5>
+        </div>
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Slider" asp-action="Index">Users</a></li>
+            <li class="breadcrumb-item">List</li>
+        </ul>
+    </div>
+    <div class="page-header-right ms-auto">
+        <div class="page-header-right-items">
+            <div class="d-flex d-md-none">
+                <a href="javascript:void(0)" class="page-header-right-close-toggle">
+                    <i class="feather-arrow-left me-2"></i>
+                    <span>Back</span>
+                </a>
+            </div>
+            <div class="d-flex align-items-center gap-2 page-header-right-items-wrapper">
+
+                <a asp-controller="Account" asp-action="SignUp" class="btn btn-primary">
+                    <i class="feather-plus me-2"></i>
+                    <span>Add User</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- [ page-header ] end -->
+<!-- [ Main Content ] start -->
+<div class="main-content">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card stretch stretch-full">
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-hover" id="customerList">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>UserName</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr class="single-item">
+                                        <td>@item.FullName </td>
+                                        <td>@item.UserName </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- [ Main Content ] end -->
+@section Scripts {
+    <link rel="stylesheet" type="text/css" href="~/admin/assets/vendors/css/dataTables.bs5.min.css">
+    <link rel="stylesheet" type="text/css" href="~/admin/assets/vendors/css/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="~/admin/assets/vendors/css/select2-theme.min.css">
+    <script src="~/admin/assets/vendors/js/dataTables.min.js"></script>
+    <script src="~/admin/assets/vendors/js/dataTables.bs5.min.js"></script>
+    <script src="~/admin/assets/vendors/js/select2.min.js"></script>
+    <script src="~/admin/assets/vendors/js/select2-active.min.js"></script>
+    <script>
+        $("#customerList").DataTable({ pageLength: 10, lengthMenu: [10, 20, 50, 100, 200, 500] });
+    </script>
+}

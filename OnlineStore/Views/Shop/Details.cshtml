@@ -1,0 +1,67 @@
+﻿@model List<CartVM>
+@{
+    Layout = "_ClientLayout";
+}
+<!-- Cart Page Start -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Total</th>
+                        <th scope="col">Handle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Count==0)
+                    {
+                        <tr>
+                            No product in the cart
+                            </tr>
+                    }
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            
+                            <td>
+                                <p class="mb-0 mt-4">@item.Name</p>
+                            </td>
+                            <td>
+                                <p class="mb-0 mt-4">@item.Price $</p>
+                            </td>
+                            <td>
+                                <div class="input-group quantity mt-4" style="width: 100px;">
+                                    <input type="text" class="form-control form-control-sm text-center border-0" value="@item.Count">
+                                    
+                                </div>
+                            </td>
+                            <td>
+                                <p class="mb-0 mt-4">@item.TotalPrice $</p>
+                            </td>
+                            <td>
+                                <a asp-controller="Basket" asp-action="DeleteProduct" asp-route-id="@item.Id" class="btn btn-md rounded-circle bg-light border mt-4">
+                                    <i class="fa fa-times text-danger"></i>
+                                </a>
+                            </td>
+
+                        </tr>
+                    }
+                    
+                </tbody>
+            </table>
+            @if (Model.Count>0)
+            {
+                <a asp-controller="Basket" asp-action="ShopNow" class="btn btn-md rounded-circle bg-light border mt-4">
+                    Proceed My Order
+                </a>
+            }
+            
+        </div>
+       
+    </div>
+</div>
+<!-- Cart Page End -->

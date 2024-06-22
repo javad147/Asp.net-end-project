@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\shared\\_clientlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shared\\_clientlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\product\\setup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\product\\setup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\views\\slider\\setup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\slider\\setup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|c:\\users\\user\\downloads\\onlinestore\\onlinestore\\onlinestore\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFB6905-B220-477A-B2A7-FFC793D73E1C}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T22:59:38.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:59:20.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T22:16:10.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T22:04:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:53:30.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:03:17.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\appsettings.json",
+              "RelativeToolTip": "OnlineStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T21:06:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ClientLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shared\\_ClientLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shared\\_ClientLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shared\\_ClientLayout.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shared\\_ClientLayout.cshtml",
+              "ViewState": "AQIAAMUAAAAApRAACUQlwM4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T20:01:40.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:09:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:54:53.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T19:08:43.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAALkAAAAAAAAAAAAmwMQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:56:04.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:55:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:43:48.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:05:03.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:34:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:50:48.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:50:27.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Data\\Product.cs",
+              "RelativeToolTip": "OnlineStore\\Data\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:48:44.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:42:24.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:04:28.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD0AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:38:59.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Setup.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Slider\\Setup.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Slider\\Setup.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Slider\\Setup.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Slider\\Setup.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T17:25:31.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Setup.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Product\\Setup.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Product\\Setup.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Product\\Setup.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Product\\Setup.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T17:26:13.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Models\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Models\\LoginVM.cs",
+              "RelativeToolTip": "OnlineStore\\Models\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:35:31.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:32:33.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
